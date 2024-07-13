@@ -10,3 +10,11 @@ js.wpadmngr.com/static/adManager.js
 streamruby.com/js/pustrck.js?ads=1&AdType=1&cbrandom=2&clicktag=http
 www.googletagmanager.com/gtag/js?id=G-TCLP78WQ8H
 static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+70d4a0bb45.e82ae52eec.com/40abee456d86ce760880b044d2f0939b.js
+js.wpadmngr.com/static/adManager.js
+streamruby.com/js/pustrck.js?ads=1&AdType=1&cbrandom=2&clicktag=http
+www.googletagmanager.com/gtag/js?id=G-TCLP78WQ8H
+static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+play.google.com/log?hasfast=true&auth=SAPISIDHASH+dacabd228271982ba991ddee3ce3d309f3ec36e2&authuser=0&format=json
+www.google.com/gen_204?atyp=i&ei=THeSZtjUIsbE4-EPrYqCwAw&ct=slh&v=t1&pv=0.17395153322355972&me=59:1720874832936,V,0,0,0,0:9295,V,0,0,393,445:558,V,0,0,393,743:235,e,H&zx=1720874843025&opi=89978449
