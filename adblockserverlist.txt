@@ -16,3 +16,5 @@ static.bookmsg.com
 785dbf66d8.813256c799.com
 js.capndr.com
 google-analytics.com
+cdn77.coolserving.com/faa2876b.js
+coolserving.com
